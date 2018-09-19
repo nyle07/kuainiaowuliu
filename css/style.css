@@ -10,6 +10,7 @@ a{color:#333;-webkit-transition: all .3s ease-out;-moz-transition: all .3s ease-
 a:hover{color:#1296db;-webkit-transition: all .3s ease-out;-moz-transition: all .3s ease-out;transition: all .3s ease-out; text-decoration:none;}
 img{ max-width:100%; height:auto;}
 .width1003{width:1003px;margin:0 auto;}
+.width1003 a:hover{color: black;}
 .fl{float:left;}
 .fr{float:right;}
 .red{color:#1296db;}
